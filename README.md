@@ -6,7 +6,8 @@ a sensor (e.g a Servo, a TMP36, a HEX display and much more) and some
 other stuff and ideas you can do with them. 
 
 ## Microcontroller used
-| Arduino UNO R3 | ESP32 DEVKIT -C |
+| Arduino UNO R3 | ESP32 DEVKITC U4 |
+| -------------- | ---------------- |
 
 ## Project Contents
 - **SENSORS**
