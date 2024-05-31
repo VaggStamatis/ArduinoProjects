@@ -11,8 +11,8 @@
 
 
 
-const char* ssid = "CYBERSPACE 2.4GHZ";
-const char* password = "40174066";
+const char* ssid = "SSID_NAME";
+const char* password = "PASSWORD";
 
 const uint16_t port = 8090;
 const char * host = "192.168.1.13";
