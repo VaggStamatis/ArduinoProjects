@@ -24,5 +24,6 @@ other stuff and ideas you can do with them.
 
 ## Clone this repository
 You can clone this repository using the command 
-``` git clone https://github.com/VaggStamatis/ArduinoProjects.git
+```sh 
+git clone https://github.com/VaggStamatis/ArduinoProjects.git
 ```
