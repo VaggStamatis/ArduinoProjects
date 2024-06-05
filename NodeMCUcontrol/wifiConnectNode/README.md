@@ -32,6 +32,7 @@ microcontroller to connect to.
 If your device was created sucessfully on Blynk and it was connected 
 to your microcontroller you can probably see the output of the image below 
 and interact with the button to switch on and off your LED
+![Alt text] https://github.com/VaggStamatis/ArduinoProjects/blob/master/NodeMCUcontrol/wifiConnectNode/BlynkConsoleDevice.png "Blynk Console Devices")
 
 # Creator 
 *Evagelos Stamatis* email: [evanstamatis@gmail.com]
