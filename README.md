@@ -18,6 +18,7 @@ other creative ideas on how to use such a sensor.
     - HEx Display (4 digital Cube _coming soon_ )
 - **USEFUL PROJECTS**
     - Wifi Client (made for ESP32 board)
+    - Node MCU (ESP32 controlled via Blynk device)
     - LCD control 
         - Project that takes input from Serial input and depicts it on screen
     - I2C LCD control (Arduino board _coming soon_)
