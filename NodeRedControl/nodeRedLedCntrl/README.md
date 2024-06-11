@@ -45,7 +45,7 @@ your server somewhere else.
 If your device was created sucessfully on Blynk and it was connected 
 to your microcontroller you can probably see the output of the image below 
 and interact with the button to switch on and off your LED
-<img src="" width="600">
+<img src="https://github.com/VaggStamatis/ArduinoProjects/blob/master/NodeRedControl/nodeRedLedCntrl/UserInterface_NodeRed.png" width="600">
 
 # Creator 
 *Evagelos Stamatis* email: [evanstamatis@gmail.com]
