@@ -19,6 +19,7 @@ other creative ideas on how to use such a sensor.
 - **USEFUL PROJECTS**
     - Wifi Client (made for ESP32 board)
     - Node MCU (ESP32 controlled via Blynk device)
+    - Node RED (ESP32 controlled/monitoring sensors through Node-Red Interafce)
     - LCD control 
         - Project that takes input from Serial input and depicts it on screen
     - I2C LCD control (Arduino board _coming soon_)
