@@ -42,9 +42,14 @@ your server somewhere else.
 - Lastly change any other parameter that applies to your configuration
 
 ### Node-Red User Interface
-If your device was created sucessfully on Blynk and it was connected 
-to your microcontroller you can probably see the output of the image below 
-and interact with the button to switch on and off your LED
+By connecting Node-Red and the ESP32 you can use the interaface shown below to control every connected sensor. 
+
+**Exaplaining the UI**
+- In the Tab _Led Control_ we can see two buttons _ON_ and _OFF_ to control the led's power. Below we can see a graph that monitors the last 3 minuts of the Led's state (ON or OFF value 1 or 0)
+- In the Tab _Potentiometer Control_ we can the The actual Numeric value of the potentiometer in a sigle number and a Gauge. In addition we can also see a graph that monitors 
+the potentiometers value for 3 minutes
+- In the tab Temperature and Humidity we can see the read values of Temperature and Humidity from our DHT11 sensor in a Gauge configuration. 
+
 <img src="https://github.com/VaggStamatis/ArduinoProjects/blob/master/NodeRedControl/nodeRedLedCntrl/UserInterface_NodeRed.png" width="800">
 
 # Creator 
