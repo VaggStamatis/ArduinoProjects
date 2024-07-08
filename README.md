@@ -1,11 +1,11 @@
 
-# Arduino Projects 
+# Microcontrollers Projects 
 This repository contains some Basic arduino projects and much more.
 In each folder of the repository you can find a simple way to control 
 a sensor (e.g a Servo, a TMP36, a HEX display and much more) and some
 other creative ideas on how to use such a sensor.
 
-## Microcontroller used
+## Microcontrollers used
 | Arduino UNO R3 | ESP32 DEVKITC U4 |
 | -------------- | ---------------- |
 
@@ -17,6 +17,10 @@ other creative ideas on how to use such a sensor.
     - Hex Display (1 digital Cube)
     - HEx Display (4 digital Cube _coming soon_ )
 - **USEFUL PROJECTS**
+    - FreeRTOS projects
+        - Semaphores
+        - Queues
+        - Structs
     - Wifi Client (made for ESP32 board)
     - Node MCU (ESP32 controlled via Blynk device)
     - Node RED (ESP32 controlled/monitoring sensors through Node-Red Interafce)
